@@ -47,7 +47,7 @@ Risk Level Distribution
 
 ## DASHBOARD PREVIEW
 ### FRAUD DETECTION OVERVIEW
-
+https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/fraud_detection_overview.png
 
 ### RISK ANALYSIS
 
