@@ -70,15 +70,17 @@ ROC-AUC
 
 ## PROJECT STRUCTURE
 ### NOTEBOOK - 
-
+https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/CREDIT_CARD_FRAUD_DETECTION_PROJECT.ipynb
 
 ### DASHBOARD - 
+PAGE 1 - https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/fraud_detection_overview.png
 
+PAGE 2 - https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/risk_analysis.png
 
-
+PAGE 3 - https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/transaction_risk_monitoring.png
 
 ### DATA -
-
+https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/edit/main/README.md
 
 ## KEY INSIGHTS
 1. Identified important transaction characteristics associated with fraud.
