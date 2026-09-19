@@ -33,6 +33,9 @@ The model also generates a fraud probability, which is used to categorize transa
 🟠 Medium Risk
 🟢 Low Risk
 
+## DATASET
+The dataset used in this project is not included in the repository due to its large file size.
+
 ## POWER BI DASHBOARD
 The dashboard provides insights into:
 
@@ -64,6 +67,18 @@ Recall
 F1-Score
 Confusion Matrix
 ROC-AUC
+
+## PROJECT STRUCTURE
+### NOTEBOOK - 
+
+
+### DASHBOARD - 
+
+
+
+
+### DATA -
+
 
 ## KEY INSIGHTS
 1. Identified important transaction characteristics associated with fraud.
