@@ -50,7 +50,7 @@ Risk Level Distribution
 https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/fraud_detection_overview.png
 
 ### RISK ANALYSIS
-
+https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/risk_analysis.png
 
 ### TRANSACTION RISK MONITORING
 
