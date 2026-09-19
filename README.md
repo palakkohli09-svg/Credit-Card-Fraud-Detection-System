@@ -53,7 +53,7 @@ https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main
 https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/risk_analysis.png
 
 ### TRANSACTION RISK MONITORING
-
+https://github.com/palakkohli09-svg/Credit-Card-Fraud-Detection-System/blob/main/transaction_risk_monitoring.png
 
 ## MODEL EVALUATION
 The model was evaluated using:
